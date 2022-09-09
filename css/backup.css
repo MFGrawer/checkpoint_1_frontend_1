@@ -1,0 +1,103 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Lato&family=Roboto&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cabin&family=Lato&family=Roboto&display=swap');
+
+body {
+font-family: "Cabin";
+}
+
+
+
+.cabecalho {
+
+    width: 420px;
+    height: 234px;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(https://www.agenciapreview.com/wp-content/uploads/2018/10/Foto-Orla-Moacyr-Scliar-1-860x480.jpg);
+    background-size: 420px;
+    
+}
+
+
+.logo img {
+    width: 80px;
+    justify-content: flex-start;
+
+}
+
+h3 {
+    color: red;
+    justify-content: flex-start;
+    margin-left: 105px;
+    font-size: 28px;
+}
+
+h1 {
+    color: #ffffff;
+    margin-top: 75px;
+    font-size: 50px;
+    margin-left: 15px;    
+}
+
+.menu a {
+    width: 420px;
+    height: 50px;
+    font-size: 20px;
+    color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+header nav > a:hover {
+    color: red;
+    font-size: 30px;
+}
+
+.curio01 h4 {
+    font-size: 16px;
+    color: yellow;
+    background-color: green;
+    width: 420px;
+    height: 30px;
+    font-style: italic;
+    padding: 5px 5px;
+}
+
+video_institucional {
+    display: flex;
+    
+}
+
+footer {
+    width: 420px;
+    height: 50px;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+
+}
+
+
+.links {
+    color: red;
+    justify-content: space-between;
+}
+
+.main {
+    color: yellow;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .logo {
+    width: 100%;
+}
+}
+
+@media (min-width: 1024px) {
+
+}

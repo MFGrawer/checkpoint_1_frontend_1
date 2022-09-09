@@ -1,0 +1,15 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Lato&family=Roboto&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cabin&family=Lato&family=Roboto&display=swap');
+
+* {
+    font-family: "Cabin";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+body {
+font-family: "Cabin";
+
+}
