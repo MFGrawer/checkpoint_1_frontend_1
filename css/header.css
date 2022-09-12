@@ -1,7 +1,4 @@
-
-
 .cabecalho {
-
     width: 420px;
     height: 234px;
     display: flex;
@@ -10,7 +7,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    
 }
 
 .cabecalho .logo {
@@ -18,14 +14,12 @@
     flex-direction: row;
     justify-content: space-between;
     margin-right: 15px;
-  
 }
 
 .logo img {
     width: 80px;
     height: 50px;
     justify-content: flex-start;
-
 }
 
 .cabecalho h3 {
@@ -33,7 +27,6 @@
     text-align: center;
     font-size: 28px;
     margin-top: 15px;
-    
 }
 
 .cabecalho h1 {
@@ -53,8 +46,6 @@
     align-items: center;
     padding: 10px;
     color: green;
-    
-    
 }
 
 .menunav {
@@ -65,7 +56,6 @@
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
-
 }
 
 .menunav a  {
@@ -78,7 +68,6 @@
     align-items: center;
     color: unset;
     text-decoration: none;
-
 }
 
 .banner {

@@ -1,14 +1,10 @@
-
-.tarjacurio {
-    
+.tarjacurio {    
     color: white;
     background-color: green;
     width: 420px;
     height: 40px;
     padding: 5px 5px;
 }
-
-
 
 .curio01 {
     width: 340px;
@@ -21,13 +17,9 @@
     margin-top: 10px;
     border: 2px solid red;
     border-radius: 20px;
-    
-    
 }
 
-
 .curio01 img {
-
     height: 200px;
     border-top-left-radius: 18px;
     border-top-right-radius: 18px;
@@ -39,8 +31,6 @@
 .curio01 h2 {
     margin-left: 10px;
     margin-top: 10px;
-    
-
 }
 
 .curio01 p {
@@ -53,7 +43,6 @@
     justify-content: center;
     text-align: justify;
     padding: 0px 10px;
-
 }
 
 .curio01 button {
@@ -66,15 +55,10 @@
     margin-top: 20px;
     border-radius: 5px;
     border: 1px solid red;
-
-
 }
 
 .curio01 a {
 text-decoration: none;
-
-
-
 }
 
 .video_institucional {
@@ -84,12 +68,9 @@ text-decoration: none;
     width: 380px;
     height: 300px;
     margin-top: 20px;
-    
-
 }
 
 .video_institucional iframe {
     border: 2px solid yellow;
     border-radius: 20px;
-    
 }
